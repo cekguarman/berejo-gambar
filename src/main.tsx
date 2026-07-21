@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App' // Pastikan nama file .tsx Anda disesuaikan di sini
+import App from './berejo_gambar.tsx' // Pastikan nama file .tsx Anda disesuaikan di sini
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
