@@ -847,4 +847,4 @@ const App = () => {
   );
 };
 
-export default BerejoGambar;
+export default App;
